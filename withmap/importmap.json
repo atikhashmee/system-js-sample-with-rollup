@@ -1,0 +1,13 @@
+{
+	"imports": {
+		"jquery/": "/node_modules/jquery/",
+		"jquery": "/node_modules/jquery/dist/jquery.js",
+		"lodash/": "/node_modules/lodash/",
+		"lodash": "/node_modules/lodash/lodash.js",
+		"systemjs/": "/node_modules/systemjs/",
+		"systemjs": "/node_modules/systemjs/dist/system-node.cjs",
+		"toastr/": "/node_modules/toastr/",
+		"toastr": "/node_modules/toastr/toastr.js"
+	},
+	"scopes": {}
+}

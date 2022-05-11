@@ -1,0 +1,15 @@
+{
+	"paths": {
+		"npm:": "node_modules/"
+	},
+	"map": {
+		"app": "app",
+		"jquery": "npm:jquery/dist/jquery.js"
+	},
+	"packages": {
+		"app": {
+			"main": "./main.js",
+			"defaultExtension": "js"
+		}
+	}
+}

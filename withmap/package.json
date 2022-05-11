@@ -1,0 +1,25 @@
+{
+  "name": "withmap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "lodash": "^4.17.21",
+    "systemjs": "^6.12.1",
+    "toastr": "^2.1.4"
+  },
+  "devDependencies": {
+    "@rollup/plugin-babel": "^5.3.1",
+    "@rollup/plugin-commonjs": "^21.0.2",
+    "importly": "^0.2.0",
+    "rollup": "^2.70.1",
+    "rollup-plugin-external-globals": "^0.6.1"
+  }
+}
